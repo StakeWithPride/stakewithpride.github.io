@@ -13,7 +13,7 @@
 		},
 		"about": {
       "me": "I'm an engineer that grew up in the Congo, where my family still lives. I've been involved with LGBTQIA+ activism since I was a teenager and this pool is yet another opportunity to give back.",
-			"server": "1 block producer (main), 1 backup BP + 2 relays distributed around the world."
+			"server": "4 high end cloud Linux nodes; 2 relays and 2 block producers across 3 continents."
 		}
 	},
 	"when-satured-then-recommend": {
