@@ -682,25 +682,24 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-s48MCQYojq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background7.jpg");
+.cid-t054NKd3x0 {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #9fdbf8;
 }
-.cid-s48MCQYojq .mbr-section-title {
-  text-align: center;
+.cid-t054NKd3x0 .image-wrap img {
+  width: 100%;
 }
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
-  color: #232323;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
-    text-align: center;
+@media (min-width: 992px) {
+  .cid-t054NKd3x0 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
   }
+}
+.cid-t054NKd3x0 .mbr-text,
+.cid-t054NKd3x0 .mbr-section-btn {
+  text-align: left;
 }
 .cid-s48udlf8KU {
   padding-top: 5rem;
@@ -708,20 +707,9 @@ a {
   background-color: #ffffff;
 }
 .cid-s48udlf8KU .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-s48udlf8KU .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-s48vaXqeL6 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-s48vaXqeL6 .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vaXqeL6 .mbr-section-subtitle {
   text-align: left;
 }
 .cid-s48OLK6784 {
@@ -1065,4 +1053,42 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sZbNo07dwc {
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-sZbNo07dwc .mbr-section-title {
+  text-align: center;
+}
+.cid-sZbNo07dwc .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-sZh3GagVyE {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sZh3GagVyE .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sZh3GagVyE .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sZh3GagVyE .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-sZh3GagVyE [class^="socicon-"]:before,
+.cid-sZh3GagVyE [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
 }
